@@ -1747,7 +1747,6 @@ BL702: A Programmers' Manual	src/SUMMARY.md	/^# BL702: A Programmers' Manual$/;"
 BL702: A Programmers' Manual	src/title-page.md	/^# BL702: A Programmers' Manual$/;"	c
 Chapter 1	book/chapter_1.html	/^                        <h1 id="chapter-1"><a class="header" href="#chapter-1">Chapter 1<\/a><\//;"	h
 Chapter 1	book/print.html	/^<div style="break-before: page; page-break-before: always;"><\/div><h1 id="chapter-1"><a class="/;"	h
-Chapter 1	src/chapter_1.md	/^# Chapter 1$/;"	c
 Configuration	book/elasticlunr.min.js	/^!function(){function e(e){if(null===e||"object"!=typeof e)return e;var t=e.constructor();for(var/;"	c	class:t
 Configuration	book/elasticlunr.min.js	/^!function(){function e(e){if(null===e||"object"!=typeof e)return e;var t=e.constructor();for(var/;"	f	function:t
 DOWN_KEYCODE	book/searcher.js	/^        DOWN_KEYCODE = 40,$/;"	v
@@ -1764,6 +1763,7 @@ FontAwesome	book/FontAwesome/fonts/fontawesome-webfont.svg	/^<font id="FontAweso
 I	book/highlight.js	/^var hljs=function(){"use strict";function e(n){Object.freeze(n);var t="function"==typeof n;retur/;"	f
 I	book/highlight.js	/^var hljs=function(){"use strict";function e(n){Object.freeze(n);var t="function"==typeof n;retur/;"	v
 Index	book/elasticlunr.min.js	/^!function(){function e(e){if(null===e||"object"!=typeof e)return e;var t=e.constructor();for(var/;"	c	class:t
+Installation	src/chapter_1.md	/^# Installation$/;"	c
 Introduction	book/introduction.html	/^                        <h1 id="introduction"><a class="header" href="#introduction">Introductio/;"	h
 Introduction	book/print.html	/^<div style="break-before: page; page-break-before: always;"><\/div><h1 id="introduction"><a clas/;"	h
 Introduction	src/introduction.md	/^# Introduction$/;"	c
